@@ -1,0 +1,13 @@
+
+S
+java:S1751"6Remove this "return" statement or make it conditional.(â—‚þ8˜ê…Ä½.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¯ª‰8œØûÃ½.
+<
+java:S21292" Remove this "String" constructor(Ö‚ºk8Ê¼ÌÄ½.
+o	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È—³Êþÿÿÿÿ8Â´ÚÄ½.
+F
+java:S2140)")Use "java.util.Random.nextInt()" instead.(òºÇÙ8ç¹ÍÅ½.
+o	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŠñëüÿÿÿÿ8ÚŸ±Ä½.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úý®Ô8õÎëÃ½.
+L
+java:S14819"*Remove this unused "bukvy" local variable.(¹ß«Æþÿÿÿÿ8ÚžàÄ½.

@@ -1,0 +1,12 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ýÚîf
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(±‚»”üÿÿÿÿ
+n
+java:S30127"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(˜î•'
+?
+java:S2140T")Use "java.util.Random.nextInt()" instead.(…æ©Ó
+I
+java:S1481".Remove this unused "newArray1" local variable.(ÅÉÆÍÿÿÿÿÿ
+A
+java:S1481?"+Remove this unused "output" local variable.(…Ê§š

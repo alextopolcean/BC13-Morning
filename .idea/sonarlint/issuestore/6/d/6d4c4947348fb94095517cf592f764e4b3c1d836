@@ -1,0 +1,9 @@
+
+t	java:S127/"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8çàº¾.
+K
+java:S1481F".Remove this unused "spanFirst" local variable.(¶Óç8‰ªÈ·¾.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ–¬¯
+G
+java:S1481H"*Remove this unused "find2" local variable.(˜µÁæ8é¸É·¾.
+J
+java:S1481E"-Remove this unused "spanLast" local variable.(¢ˆ–á8úÈÇ·¾.

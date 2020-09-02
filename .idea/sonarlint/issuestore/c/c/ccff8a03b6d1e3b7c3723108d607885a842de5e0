@@ -1,0 +1,11 @@
+
+
+java:S4165"dRemove this useless assignment; "output" already holds the assigned value along all execution paths.(Ï´ªÍúÿÿÿÿ
+7
+java:S1643"Use a StringBuilder instead.(·‚žôøÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(‹²¦D
+Q	java:S125"<This block of commented-out lines of code should be removed.(¢Ê£‡
+7
+java:S1643"Use a StringBuilder instead.(Ï´ªÍúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(“ Ó»ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë©‚Å

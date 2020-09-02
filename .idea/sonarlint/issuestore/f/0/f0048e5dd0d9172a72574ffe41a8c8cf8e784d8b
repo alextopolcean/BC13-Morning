@@ -1,0 +1,7 @@
+
+@
+java:S3457&"%String contains no format specifiers.(ñÚÿÅøÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(®ÔÇîúÿÿÿÿ8£å£ü½.
+W
+java:S3457("AFormat specifiers should be used instead of string concatenation.(¿´’¤
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïíå…şÿÿÿÿ

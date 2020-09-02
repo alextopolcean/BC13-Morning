@@ -1,0 +1,12 @@
+
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(ƒß”Ðþÿÿÿÿ
+J
+java:S1481
+"/Remove this unused "shakeArray" local variable.(¿À»…øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Š©¶‚úÿÿÿÿ
+D
+java:S1481")Remove this unused "temp" local variable.(ÜáÓëûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ–¬¯
+€
+java:S14881"jImmediately return this expression instead of assigning it to the temporary variable "randomCyrillicChar".(ÉÚžÓ

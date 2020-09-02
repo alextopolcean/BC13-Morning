@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€°£Œ
+o
+java:S3012c"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ô®¸â
+t
+java:S3012g"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Âº®Úûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Í‰‹

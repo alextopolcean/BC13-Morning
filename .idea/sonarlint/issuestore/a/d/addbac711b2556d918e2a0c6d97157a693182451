@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡ø´Þøÿÿÿÿ
+R
+java:S2589"7Remove this expression which always evaluates to "true"(·Š•ðüÿÿÿÿ
+2
+java:S2757"Was "-=" meant instead?(ÝÉò«ýÿÿÿÿ
+D
+java:S1481	")Remove this unused "cout" local variable.(’­ƒ¿ÿÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(×Æê²ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¸ÀÜÇùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(«ÃÿÛýÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(Û°œ+

@@ -1,0 +1,6 @@
+
+O
+java:S1172;"-Remove this unused method parameter "length".(æê’ÿÿÿÿÿ8’å÷ã¾.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’‘â“úÿÿÿÿ
+F
+java:S2140>")Use "java.util.Random.nextInt()" instead.(×Ëîì8¹”öã¾.
